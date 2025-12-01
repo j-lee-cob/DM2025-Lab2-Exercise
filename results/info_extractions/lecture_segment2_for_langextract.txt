@@ -1,0 +1,38 @@
+# LECTURE ANALYSIS: Data Types: Interval and Ratio
+## Video Segment: 100:00-104:29
+
+[SLIDE DESCRIPTION]
+The slide is titled 'Interval'. It lists two main characteristics: 'The difference between values are meaningful' and 'No total absence of the variable'. A table shows 'Variable' (Temperature, Dates) and 'Values' (15 C (Celsius), 202 F (Fahrenheit), 2021/10/5, 2012/12/23). Below the table is a bullet point 'How to analyze?'
+
+[TRANSCRIPT - 100:00]
+graduate in student, in student. And why? Because when they finish their graduation, they need to fill in some graduate questionnaire. And for our student, they all answer four. We have five, again. And in the end, after that, our average is like four or something. Why you fill in four? They say, I think four is good enough. We say, but do you know when we try to convert them to percentage, the fourth means 75 point. Five means 100 point. And when they heard that, just like, really? Oh yeah, then the four is really low. But how do you know about that? When people try to fill in the questionnaire, how do they know their agree is 80 point, 75 point, or 90 point? They don't know. They have their own rubric, they have their own rule.
+
+[SLIDE DESCRIPTION]
+The slide is titled 'Ordinal'. It states 'Ordinal values can help to order objects'. Examples are given for 'Medal' (Gold, Silver, Bronze) and 'Degree of agreement' (Strongly agree, Agree, Neutral, Disagree, Strongly disagree). Below, 'How to analyze?' lists 'Distribution, Mode, Mean (Range)'. An image on the right shows a table with 'Order by RBC' for different countries and another image titled 'Assessing Academic Data Quality'.
+
+[TRANSCRIPT - 100:58]
+So when you directly do mean about that, it is not fair. So very careful about it. A lot of students thinking about that number, they just average them. That meaning may actually misleading you.
+
+[SLIDE DESCRIPTION]
+The slide is titled 'Interval'. It lists two main characteristics: 'The difference between values are meaningful' and 'No total absence of the variable'. A table shows 'Variable' (Temperature, Dates) and 'Values' (15 C (Celsius), 202 F (Fahrenheit), 2021/10/5, 2012/12/23). Below the table, 'How to analyze?' lists 'Frequency distribution', 'Mode, median, or mean', and 'Range, standard deviation, and variance'.
+
+[TRANSCRIPT - 101:14]
+Okay, the next one is called interval data. Interval data is your difference. So right here, we actually say the gold medal, silver medal, bronze medal or like 5, 4, 3, 2, 1. The 5 and 4, that you have no meaning at all. Because you don't know what does it mean by agree and very agree. What's the difference between them? Everyone have their own standard. But then interval data is you don't need to worry about that. Because they have the same standard. Okay? For example, temperature. From degree 15 to degree 17, 2 degree different, they are same. You are doing that. But so how we try to analyze them? You can do frequency distribution, mode, median, mean, range, standard deviation, variance, you can do something like that.
+
+[SLIDE DESCRIPTION]
+The slide is titled 'Ratio'. It lists two main characteristics: 'Both differences and ratios are meaningful' and 'Have total absence of the variable'. A table shows 'Variable' (Speed, Days) and 'Values' (205 M/h, -15 M/h, 0 days, +120 days). Below the table, 'How to analyze?' lists 'Frequency distribution', 'Mode, median, or mean', 'Range, standard deviation, and variance', and '...matrix operation'.
+
+[TRANSCRIPT - 102:12]
+But then my question right here, again, you will find out that um we have next one called ratio data. Ratio data is not only mean the difference is meaningful. The ratio are also meaningful. So then, right now, we can tell you speed and days right here are different. And how we try to analyze them? We can do a lot of matrix operation. Here is the question. You know we can do ratio, right? And do you see temperature? Why we cannot do temperature with we cannot utilize ratio operation for temperature.
+
+[SLIDE DESCRIPTION]
+The slide is titled 'Interval'. It lists two main characteristics: 'The difference between values are meaningful' and 'No total absence of the variable'. A table shows 'Variable' (Temperature, Dates) and 'Values' (15 C (Celsius), 202 F (Fahrenheit), 2021/10/5, 2012/12/23). Below the table is a bullet point 'How to analyze?'
+
+[TRANSCRIPT - 103:01]
+Why? Okay. So, go to slide to tell me why you cannot do temperature. Why is it belong to interval type, not ratio type? You understand the meaning about interval and ratio. Ratio do have the so, but you have the um the degree 15 degree, 70 degree. Why I cannot do ratio on that?
+
+[SLIDE DESCRIPTION]
+The slide displays a Slido poll titled '2025 DM Introduction and Data (Part 1)'. The question is 'Why does the Temperature attribute belong to the interval type and not the ratio type?'. Below the question, various student responses are shown, including: '0°C is not a true zero', 'Because it can go in the negatives', 'Temperature has an absolute zero', 'not straightforward', 'The temperature of 0 doesn't mean there is no temperature', 'Degree has negative value', 'No standard unit', 'The changes of max and min temp are important', 'it fluctuates', 'no true 0'.
+
+[TRANSCRIPT - 103:39]
+QR code right here. Let me try to show that to you. QR code right here. No negative value can also have ratio. No. Just negative ratio is defined. Temperature has an absolute zero. The temperature of 0 doesn't mean there is no temperature. Degree has negative value. No standard unit.

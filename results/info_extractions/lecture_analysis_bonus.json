@@ -1,0 +1,20 @@
+{
+    "title": "Types of Attributes",
+    "video_segment": "83:20",
+    "content_flow": [
+        {
+            "content_type": "slide_description",
+            "text": "The slide is titled \"Types of Attributes\". It presents a table categorizing different types of attributes: Nominal, Ordinal, Interval, and Ratio. Each category has a checkmark indicating its properties. Nominal attributes have no order. Ordinal attributes have an order but not equal spacing. Interval attributes have equal spacing but no true zero. Ratio attributes have equal spacing and a true zero. The slide also shows a visual representation of these types on a number line, indicating increasing order and spacing from left to right."
+        },
+        {
+            "content_type": "transcript_segment",
+            "text": "then you they can have equal space that is called interval data. Ratio data you can do equal and then you can also do proportional. So that is. You can see there's a very tiny word called true zero ratio data. You do have something called zero. The zero means zero, nothing. You need to know true zero means not just because they have a value called zero. That zero also means if zero does not mean nothing. Then it is not true zero. We will give you some example later.",
+            "timestamp": "83:20"
+        },
+        {
+            "content_type": "transcript_segment",
+            "text": "Nominal values can only distinguish one object from another. Examples: Zip code, Political preferences, Genres. How to analyze? Like zip code. Like your name. My name is Shin Chen. I can only find the person who have the same name with me or not the same name. But now just thinking about from the meaning part. When we sort them is because they've been used for computer. But right now we're talking about meaning. Can I sort my name with R T A D R? No. Even though Yishin starts from Y, Didier starts from D. But if I say, oh, Y is later than D from the meaning. It actually looks weird. So, the zip code is also the same. It's like, you know, this region, there's another region. But some people probably will say, but professor, I actually can find some other information to sort the zip code. For example, zip code I having someone like if they are from the 90001, which means they are more, the the count, the county actually start earlier. If that is the cases, you need to find another feature to indicate that or actually convert that feature into something. Nominal data, again, if you try to do data mining process, the nominal data you need to set it as categorical data. In English, it can have different kinds of data mining technique. Okay. And usually they will only give you two choice. One is called categorical data. One is another is called number. So right now, the zip code is look like number. It's like 0013. It looks like number. But you shouldn't set it as number. You shouldn't set it as numerical data. You need to set it as string or you set it as nominal data or categorical data. Depends on what kind of thing. So if you do not find categorical data, you have to set it as a string. Because string can also only do equal and not equal. Okay. And uh, so how to analyze them? In order for you, you can only do equal and not equal. But from a population, if you want to say, oh, I have so many zip code data. What can I do? You can have some distribution. How many people are in this zip code? So you can find a distribution. Or you can find who are the county have the majority of the people. Something like that. So in other words, I do not have a bigger. So you can have something like that. And right here are the attribute. So for example, like this one are 90007. This one are 90010. And this one are 90020. So for example.",
+            "timestamp": "84:00"
+        }
+    ]
+}

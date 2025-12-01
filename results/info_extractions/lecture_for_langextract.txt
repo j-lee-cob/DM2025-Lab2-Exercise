@@ -1,29 +1,11 @@
-# LECTURE ANALYSIS: Types of Data Sets
-## Video Segment: 110:58 - 114:58
+# LECTURE ANALYSIS: Types of Attributes
+## Video Segment: 83:20
 
 [SLIDE DESCRIPTION]
-The slide is titled "Data Sets". It lists two main categories: Structured Data Sets and Unstructured Data Sets. Structured data is described as a collection of data organized in certain formats, often in rows and columns, with a clear, predictable structure. Unstructured data is described as more complex and varied, usually derived from human-generated content like text, images, and videos.
+The slide is titled "Types of Attributes". It presents a table categorizing different types of attributes: Nominal, Ordinal, Interval, and Ratio. Each category has a checkmark indicating its properties. Nominal attributes have no order. Ordinal attributes have an order but not equal spacing. Interval attributes have equal spacing but no true zero. Ratio attributes have equal spacing and a true zero. The slide also shows a visual representation of these types on a number line, indicating increasing order and spacing from left to right.
 
-[TRANSCRIPT - 110:58]
-So the next one we want to talking about the data set. We have different type of data set. You might heard about the term called structured data or unstructured data. Structured data is you know exactly the meaning about the row and column. Unstructured data is they will change. Sometimes you don't really know how to interpret them. Currently that the human generate content such as image, text, video, we consider them as unstructured data.
+[TRANSCRIPT - 83:20]
+then you they can have equal space that is called interval data. Ratio data you can do equal and then you can also do proportional. So that is. You can see there's a very tiny word called true zero ratio data. You do have something called zero. The zero means zero, nothing. You need to know true zero means not just because they have a value called zero. That zero also means if zero does not mean nothing. Then it is not true zero. We will give you some example later.
 
-[TRANSCRIPT - 111:36]
-Luckily with this AI thing and right now text, image, video already can be converting into structured format, but you still need to be able to know once we convert, are they meaningful or not.
-
-[SLIDE DESCRIPTION]
-The slide is titled "Characteristics of Data Sets". It lists three characteristics: Dimensionality (Curse of Dimensionality), Sparsity (Only presence counts), and Resolution (Patterns depend on the scale). A speech bubble says "Later" next to Sparsity.
-
-[TRANSCRIPT - 111:53]
-So we have different kind of characteristic about our data dimension we mentioned before. Sparsity comes from a key word called sparse. Sparse means very few. Like what we say that if you have the record in e-commerce store, like in Amazon. Your data is sparse in that data record. Because they have millions of the record, but then you probably only buy 10 books before. So make your data in the millions then become very sparse. So data are sparse. And sometimes in certain place, we will also talking about the resolution. And that part about sparsity, how to solving them, how to do the resolution, we will talking about later in some of the courses, some of them will be in classification, some of them will be in the text mining.
-
-[SLIDE DESCRIPTION]
-The slide is titled "Types of Data Sets". It lists three types: Data Matrix, Document Data, and Transaction Data.
-
-[TRANSCRIPT - 112:58]
-We want to talk about different type of the data set. We have the data matrix, document data, transaction data. So data matrix look like this way. If each object has the same fixed set of numeric attributes. Okay, they can become data metric. And then we allow them to do the ratio operation. All the value inside need to become the ratio data. So then right here, they need to be ratio data.
-
-[SLIDE DESCRIPTION]
-The slide is titled "Data Matrix". It states: "If each object has the same fixed set of numeric attributes". A table shows "Book 1" to "Book 5" with columns for "Price", "Sells", "# Reviews", and "# Readers". The values are numeric.
-
-[TRANSCRIPT - 114:48]
-Okay. And the document data is a part that we were talking about later because before 2013, this is before 2013. Okay. And the people actually utilize document data in a vector form. Right here. So they select important keyword in the document. And then after that, for every document, you utilize those important keyword, we got some number, occurrence of the number for that keyword right there. We generate a something called term vector. So each one of them are vector. Why vector? Because in computer science, vector is the way for us to operate. We convert them to vector, so in other word, every number right here are become ratio data. But that is way we try to work in that before 2013. After 2013, how we try to do that? We will talking about that in the text mining part. So maybe three weeks later.
+[TRANSCRIPT - 84:00]
+Nominal values can only distinguish one object from another. Examples: Zip code, Political preferences, Genres. How to analyze? Like zip code. Like your name. My name is Shin Chen. I can only find the person who have the same name with me or not the same name. But now just thinking about from the meaning part. When we sort them is because they've been used for computer. But right now we're talking about meaning. Can I sort my name with R T A D R? No. Even though Yishin starts from Y, Didier starts from D. But if I say, oh, Y is later than D from the meaning. It actually looks weird. So, the zip code is also the same. It's like, you know, this region, there's another region. But some people probably will say, but professor, I actually can find some other information to sort the zip code. For example, zip code I having someone like if they are from the 90001, which means they are more, the the count, the county actually start earlier. If that is the cases, you need to find another feature to indicate that or actually convert that feature into something. Nominal data, again, if you try to do data mining process, the nominal data you need to set it as categorical data. In English, it can have different kinds of data mining technique. Okay. And usually they will only give you two choice. One is called categorical data. One is another is called number. So right now, the zip code is look like number. It's like 0013. It looks like number. But you shouldn't set it as number. You shouldn't set it as numerical data. You need to set it as string or you set it as nominal data or categorical data. Depends on what kind of thing. So if you do not find categorical data, you have to set it as a string. Because string can also only do equal and not equal. Okay. And uh, so how to analyze them? In order for you, you can only do equal and not equal. But from a population, if you want to say, oh, I have so many zip code data. What can I do? You can have some distribution. How many people are in this zip code? So you can find a distribution. Or you can find who are the county have the majority of the people. Something like that. So in other words, I do not have a bigger. So you can have something like that. And right here are the attribute. So for example, like this one are 90007. This one are 90010. And this one are 90020. So for example.
